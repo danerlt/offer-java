@@ -56,7 +56,6 @@ public class Example03 {
 
     @Test
     public void testHasNotNumber () {
-        StringBuffer sb = new StringBuffer(10);
         int[][] arr = new int[][]{
                 {1, 2, 8, 9},
                 {2, 4, 9, 12},
